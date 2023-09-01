@@ -1,0 +1,50 @@
+site_asset_Id: "105"
+site_name: "JBL_Speaker"
+site_space_Id: "12"
+site_description: "A speaker"
+site_Status: "In development"
+site_MVP_Phase: ["speaker"]
+site_Industry: "lifestyle"
+site_Domain: "Others" 
+site_Value_Proportion: "50"
+site_UPSs: "ups"
+site_Product_Variants: "34.3"
+site_Market: "aitomotive"
+site_Region: "India"
+site_SBU: "IC"
+site_V0_X_PLM_100: "100"
+site_HW_SW: "Hw"
+site_Cloud: "AWS"
+site_ASIL_level: "ASIL level 1"
+site_Showpad_link: "https://www.harman.com"
+site_Product_manager: ["manager"]
+site_Owner_details: "manager"
+site_MRD_link: "https://www.Harman.com"
+site_PRD_link: "https://www.Harman.com"
+site_GTM_link: "https://www.Harman.com"
+site_Roadmap_link: "https://www.Harman.com"
+site_User_guide: "guide"
+site_Business_Case_Approval: "Yes"
+site_Privacy: "yes"
+site_SLA: "sla"
+site_License: "yes"
+site_System_Architecture: "microservices"
+site_SDK_link: "https://www.Harman.com"
+site_API_link: "https://www.Harman.com"
+site_Developer_Guide_Link: "https://www.Harman.com"
+site_Customers: ["ameen"]
+site_Maturity: "3-5 years"
+site_Market_Share: 88
+site_Related_Products: ["jbl"]
+site_Related_Projects: ["project"] 
+site_Derived_Projects: ["derived"]
+site_Competitors: ["boat"]
+site_price: {"currency":"USD","amount":"100"}
+site_Business_Model: "Harman"
+site_Additional_Info: "NA"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
